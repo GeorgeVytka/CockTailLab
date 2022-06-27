@@ -12,4 +12,6 @@ const size = (size, increase = false) => {
   return Math.ceil(size / ratio);
 };
 
+//const sizeHeight = ()
+
 export default {size};
